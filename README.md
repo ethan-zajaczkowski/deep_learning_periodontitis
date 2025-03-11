@@ -20,7 +20,7 @@ To download and load the file for the first time, follow the steps below:
 - Pockets.xlsx
 - Recessions.xlsx
 - Suppuration.xlsx
-8. Then, go to: "final_code/deep_learning_dentistry/data_curation/data_curator.py". Run this file by clicking the Pause Icon in the top right. This will process and curate all the data from the Raw file.
+8. Then, go to: "final_code/deep_learning_dentistry/data_curation/data_curator.py". Run this file by clicking the Run Icon in the top right. This will process and curate all the data from the Raw file.
 9. To extract the final dataset, go to: "final_code/deep_learning_dentistry/data_curation/raw_data_curator_long.py" and run. This will produce the final dataset located in "final_code/data" under the name "curated_dataset.csv".
 
 General Navigation Of The Dataset
